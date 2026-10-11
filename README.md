@@ -149,7 +149,10 @@ haciéndoles la vida más fácil. [Nuestra historia, misión y visión](https://
 | [`LICENSE.md`](LICENSE.md) | Licencia |
 
 <p align="center">
-  <img src=".github/assets/logo-vecipp.svg" alt="Vecipp" height="40"><br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset=".github/assets/logo-vecipp-blanco.svg">
+    <img src=".github/assets/logo-vecipp.svg" alt="Vecipp" height="44">
+  </picture><br>
   <sub>Diseñado y desarrollado por los ingenieros de software <b>Yilmer Carrillo Diaz</b> y <b>Yeferson Carrillo Diaz</b> · © 2026 · Hecho en Colombia 🇨🇴 para Latinoamérica y el mundo</sub>
 </p>
 <!-- /vecipp:pie -->
